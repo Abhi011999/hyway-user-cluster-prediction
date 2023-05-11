@@ -1,0 +1,9 @@
+timestamp,action,cluster,user,cluster_id
+2023-05-11T06:55:58.870Z,userExitedCluster,HallWay,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,0
+2023-05-11T06:55:58.949Z,userEnteredCluster,Virtual-Chat,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,1
+2023-05-11T06:56:00.732Z,userExitedCluster,Virtual-Chat,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,1
+2023-05-11T06:56:00.781Z,userEnteredCluster,HallWay,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,0
+2023-05-11T06:56:04.898Z,userExitedCluster,HallWay,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,0
+2023-05-11T06:56:05.016Z,userEnteredCluster,STAIRWAY,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,5
+2023-05-11T06:56:07.217Z,userExitedCluster,STAIRWAY,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,5
+2023-05-11T06:56:07.294Z,userEnteredCluster,HallWay,8:acs:c8b24614-e4fc-46fd-bf85-ea8a575f9e26_00000018-a979-b2d5-35f3-343a0d009d74,0
